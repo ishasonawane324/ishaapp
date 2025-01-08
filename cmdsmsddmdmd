@@ -1,0 +1,85 @@
+[33mcommit 645a0342eb5c8e37c08e35d21275d85b0b73c9d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: bd4a714 2948a54
+Author: ishasonawane324 <issonawane20@gmail.com>
+Date:   Wed Jan 8 14:21:26 2025 +0530
+
+    Merge pull request #1 from ishasonawane324/mybranch
+    
+    oliva
+
+[33mcommit 2948a5414ce08b1a17e844a1f4efb3870549c4e6[m[33m ([m[1;31morigin/mybranch[m[33m, [m[1;32mmybranch[m[33m)[m
+Author: ishasonawane324 <i@s.com>
+Date:   Wed Jan 8 08:43:05 2025 +0000
+
+    oliva
+
+[1mdiff --git a/swe.html b/swe.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..98820f6[m
+[1m--- /dev/null[m
+[1m+++ b/swe.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m77777777777777777777777777777777777777[m
+
+[33mcommit bd4a7144162338ec8ffcf9bb1e587159c19eb1f7[m
+Author: ishasonawane324 <i@s.com>
+Date:   Mon Jan 6 12:26:17 2025 +0000
+
+    monu commit
+
+[1mdiff --git a/fifth.html b/fifth.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9a1c16b[m
+[1m--- /dev/null[m
+[1m+++ b/fifth.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m55555555555555555555555[m
+
+[33mcommit 41c1b91dc8a189253c95ab988e96a91fdf49ce29[m
+Author: ishasonawane324 <issonawane20@gmail.com>
+Date:   Mon Jan 6 17:53:52 2025 +0530
+
+    Create max.html
+
+[1mdiff --git a/max.html b/max.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9c0731e[m
+[1m--- /dev/null[m
+[1m+++ b/max.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmaxxxxxxxxxxx[m
+
+[33mcommit 47180a00926522c9abba19b72433ddb5d5a40fad[m
+Author: ishasonawane324 <i@s.com>
+Date:   Mon Jan 6 12:20:03 2025 +0000
+
+    first four
+
+[1mdiff --git a/mnd.html b/mnd.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ad976db[m
+[1m--- /dev/null[m
+[1m+++ b/mnd.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmnd[m
+[1mdiff --git a/teen.html b/teen.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..674429b[m
+[1m--- /dev/null[m
+[1m+++ b/teen.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m333333333333333333[m
+
+[33mcommit 0cd00c08f3a6a64a71593e7e7c66f769b7a4adda[m
+Author: ishasonawane324 <i@s.com>
+Date:   Sun Jan 5 06:56:30 2025 +0000
+
+    first commit
+
+[1mdiff --git a/my.txt b/my.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2a76706[m
+[1m--- /dev/null[m
+[1m+++ b/my.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mI am isha[m
